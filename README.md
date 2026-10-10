@@ -20,10 +20,10 @@ The system uses a sensor to measure distance while the servo motor scans differe
 
 Copyright Notice
 
-Copyright © 2026 [Your Name]. All rights reserved.
+Copyright © 2026 [Anuja Latkar]. All rights reserved.
 
 This project is intended for personal and educational use. Copying, modifying, or redistributing the source code requires the copyright holder's prior written permission, except where permitted by applicable law.
 
 Author
 
-[Your Name]
+[Anuja Latkar]
